@@ -843,6 +843,15 @@
          "tileheight":32,
          "tiles":[
                 {
+                 "id":8,
+                 "properties":[
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"http:\/\/kinderzeichnung.de\/"
+                        }]
+                }, 
+                {
                  "id":37,
                  "properties":[
                         {
