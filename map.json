@@ -121,10 +121,10 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.bilder-upload.eu\/upload\/553226-1612452330.jpg"
+                 "value":"https:\/\/s1.imagebanana.com\/file\/210204\/jjNlQdDi.JPG"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":97,
          "x":0,
          "y":0
@@ -139,10 +139,10 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.bilder-upload.eu\/upload\/097456-1612452318.jpg"
+                 "value":"https:\/\/www.imagebanana.com\/s\/2023\/jjNlQdDi.html"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":97,
          "x":0,
          "y":0
