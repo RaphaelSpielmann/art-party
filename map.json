@@ -111,6 +111,12 @@
          "id":28,
          "name":"link_Rothausbier",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"openWebsite",
+                 "type":"string",
+                 "value":"https:\/\/s1.imagebanana.com\/file\/210207\/arnYLehS.JPG"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":97,
