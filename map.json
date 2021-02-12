@@ -529,7 +529,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.ph-freiburg.de\/fileadmin\/dateien\/fakultaet2\/kunst\/spielmann\/bilder\/Transparentpapier_small.jpg"
+                 "value":"https:\/\/www.ph-freiburg.de\/fileadmin\/dateien\/fakultaet2\/kunst\/spielmann\/bilder\/Transparentapier_small.jpg"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -709,7 +709,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.ph-freiburg.de\/fileadmin\/dateien\/fakultaet2\/kunst\/spielmann\/bilder\/L\u00f6ffelkrauler.jpg"
+                 "value":"https:\/\/www.ph-freiburg.de\/fileadmin\/dateien\/fakultaet2\/kunst\/spielmann\/bilder\/L\u00f6ffelkrauler.JPG"
                 }],
          "type":"tilelayer",
          "visible":true,
