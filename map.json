@@ -835,7 +835,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/s1.imagebanana.com\/file\/210208\/4PhjZFaM.JPG"
+                 "value":"https:\/\/www.ph-freiburg.de\/fileadmin\/dateien\/fakultaet2\/kunst\/spielmann\/bilder\/03.jpg"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -853,7 +853,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/s1.imagebanana.com\/file\/210208\/XFdYDGvu.JPG"
+                 "value":"https:\/\/www.ph-freiburg.de\/fileadmin\/dateien\/fakultaet2\/kunst\/spielmann\/bilder\/02.jpg"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -871,7 +871,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/s1.imagebanana.com\/file\/210208\/4YKZgZvO.JPG"
+                 "value":"https:\/\/www.ph-freiburg.de\/fileadmin\/dateien\/fakultaet2\/kunst\/spielmann\/bilder\/01.jpg"
                 }],
          "type":"tilelayer",
          "visible":true,
