@@ -343,7 +343,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.ph-freiburg.de\/fileadmin\/dateien\/fakultaet2\/kunst\/spielmann\/bilder\/lisa_anna_pelzer_3.jpg"
+                 "value":"https:\/\/www.ph-freiburg.de\/fileadmin\/dateien\/fakultaet2\/kunst\/spielmann\/bilder\/myl\u00e8ne_schell_1.JPG"
                 }],
          "type":"tilelayer",
          "visible":true,
