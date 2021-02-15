@@ -253,7 +253,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.ph-freiburg.de\/fileadmin\/dateien\/fakultaet2\/kunst\/spielmann\/bilder\/lmaria_todorova3.jpg"
+                 "value":"https:\/\/www.ph-freiburg.de\/fileadmin\/dateien\/fakultaet2\/kunst\/spielmann\/bilder\/maria_todorova3.jpg"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -271,7 +271,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.ph-freiburg.de\/fileadmin\/dateien\/fakultaet2\/kunst\/spielmann\/bilder\/lmaria_todorova2.jpg"
+                 "value":"https:\/\/www.ph-freiburg.de\/fileadmin\/dateien\/fakultaet2\/kunst\/spielmann\/bilder\/maria_todorova2.jpg"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -289,7 +289,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.ph-freiburg.de\/fileadmin\/dateien\/fakultaet2\/kunst\/spielmann\/bilder\/lmaria_todorova1.jpg"
+                 "value":"https:\/\/www.ph-freiburg.de\/fileadmin\/dateien\/fakultaet2\/kunst\/spielmann\/bilder\/maria_todorova1.jpg"
                 }],
          "type":"tilelayer",
          "visible":true,
