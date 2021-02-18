@@ -733,7 +733,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.ph-freiburg.de\/fileadmin\/dateien\/fakultaet2\/kunst\/spielmann\/bilder\/francesca_6.jpg"
+                 "value":"https:\/\/www.ph-freiburg.de\/fileadmin\/dateien\/fakultaet2\/kunst\/spielmann\/bilder\/madeleine_m\u00fcller.jpg"
                 }],
          "type":"tilelayer",
          "visible":true,
