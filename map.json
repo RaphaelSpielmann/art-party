@@ -5114,19 +5114,6 @@
          "tilecount":18,
          "tileheight":32,
          "tilewidth":32
-        }, 
-        {
-         "columns":4,
-         "firstgid":8916,
-         "image":"icons_tileset_01.png",
-         "imageheight":160,
-         "imagewidth":128,
-         "margin":0,
-         "name":"icons_tileset_01",
-         "spacing":0,
-         "tilecount":20,
-         "tileheight":32,
-         "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",
