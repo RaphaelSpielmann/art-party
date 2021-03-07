@@ -535,7 +535,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.ph-freiburg.de\/fileadmin\/shares\/Institute\/Kunst\/Spielmann_Workadventure\/bilder\/myl\u00e8ne_schell_1.JPG"
+                 "value":"https:\/\/www.ph-freiburg.de\/fileadmin\/shares\/Institute\/Kunst\/Spielmann_Workadventure\/bilder\/mylene_schell_1.JPG"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -2929,7 +2929,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.ph-freiburg.de\/fileadmin\/shares\/Institute\/Kunst\/Spielmann_Workadventure\/bilder\/L\u00f6ffelkrauler.JPG"
+                 "value":"https:\/\/www.ph-freiburg.de\/fileadmin\/shares\/Institute\/Kunst\/Spielmann_Workadventure\/bilder\/Loeffelkrauler.JPG"
                 }],
          "type":"tilelayer",
          "visible":true,
